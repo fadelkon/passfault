@@ -134,8 +134,7 @@ h2 {
 }
 
 body {
-	background-image: url(img/asphalt.jpg);
-	background-repeat: repeat;
+	background-color: rgb(30,30,30);
 	margin-left: auto;
 	margin-right: auto;
 	width:70%;
